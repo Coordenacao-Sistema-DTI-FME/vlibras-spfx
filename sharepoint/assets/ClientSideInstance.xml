@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="VLibras"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="5e624ae6-b211-4ff6-904a-4c6fd75c69f0"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

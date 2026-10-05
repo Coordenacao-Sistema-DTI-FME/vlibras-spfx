@@ -1,0 +1,20 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.23.3",
+    "sdksVersions": {},
+    "version": "1.23.2",
+    "libraryName": "vlibras-spfx",
+    "libraryId": "dfb10c5e-ba84-4e36-b354-4a3493f9d1b6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "vlibras-spfx",
+    "solutionShortDescription": "vlibras-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
