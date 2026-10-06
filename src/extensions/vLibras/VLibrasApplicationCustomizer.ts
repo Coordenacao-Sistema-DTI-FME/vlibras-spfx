@@ -131,7 +131,8 @@ export default class VlibrasApplicationCustomizer
           style.id = 'vlibras-custom-style';
           style.textContent = `
             #vlibras-access {
-              right: 40px !important;
+              right: 72px !important;
+             bottom: 18px !important;
             }
           `;
           shadow.appendChild(style);
